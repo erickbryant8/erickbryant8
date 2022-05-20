@@ -1,4 +1,4 @@
-- Meu nome é Erick, tenho 18 anos.
+- Meu nome é Érick de Paula, tenho 18 anos.
 - Tenho interesse em aprender a linguagem de programação Javascript;
 - No tempo atual curso Informática para Internet no IFRJ - Campus Eng. Paulo de Frontin e jogo vôlei profissional no Ginásio de Paty do Alferes;
 - Estou dedicado a aprender mais sobre a área de TI;
